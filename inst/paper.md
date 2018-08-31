@@ -2,7 +2,7 @@
 title: 'Gravity: Estimation Methods for Gravity Models in R'
 authors:
 - affiliation: 1
-  name: Anna-Lena Wöelwer
+  name: Anna-Lena Wölwer
 - affiliation: 1
   name: Jan Pablo Burgard
 - affiliation: 2
@@ -34,7 +34,7 @@ The underlying idea is rather simple. The greater the masses of two bodies and t
 distance between them, the stronger their attraction. 
 
 It can be quite difficult to get an overview of the different methods and implement them in 
-R [@baser], **gravity** package provides a wrapper of different standard estimation methods.
+R [@baser]. **gravity** package provides a wrapper of different standard estimation methods.
 By considering the descriptions and codes of these methods, users get a comprehensive and 
 application-oriented access, see which method may be suitable for certain research questions or 
 data types, and extend the code available for their specific research projects.
