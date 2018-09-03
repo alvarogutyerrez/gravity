@@ -2,7 +2,7 @@
 title: 'Gravity: Estimation Methods for Gravity Models in R'
 authors:
 - affiliation: 1
-  name: Anna-Lena Wöelwer
+  name: Anna-Lena Wölwer
 - affiliation: 1
   name: Jan Pablo Burgard
 - affiliation: 2
